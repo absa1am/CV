@@ -1,0 +1,29 @@
+p.headline {
+    color: white;
+    margin-left: 8px;
+    padding-left: 5px;
+    background-color: cadetblue;
+    text-align: left;
+    font-size: 20px;
+}
+
+p.content {
+    margin-left: 10px;
+}
+
+div.divOne {
+    float: left;
+    width: 25%;
+    height: 100%;
+    background-color: cadetblue;
+}
+
+div.divTwo {
+    width: 75%;
+    height: 100%;
+    margin-left: 25%;
+}
+
+li {
+    list-style-type: square;
+}
